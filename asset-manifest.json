@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kusuma-6264/mars/static/css/main.5fa02b35.css",
+    "main.js": "/kusuma-6264/mars/static/js/main.7bd6bee9.js",
+    "index.html": "/kusuma-6264/mars/index.html",
+    "main.5fa02b35.css.map": "/kusuma-6264/mars/static/css/main.5fa02b35.css.map",
+    "main.7bd6bee9.js.map": "/kusuma-6264/mars/static/js/main.7bd6bee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fa02b35.css",
+    "static/js/main.7bd6bee9.js"
+  ]
+}
